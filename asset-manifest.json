@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/jashneghar/static/css/main.12babb87.chunk.css",
+    "main.js": "/jashneghar/static/js/main.ac318506.chunk.js",
+    "main.js.map": "/jashneghar/static/js/main.ac318506.chunk.js.map",
+    "runtime-main.js": "/jashneghar/static/js/runtime-main.c55ad6af.js",
+    "runtime-main.js.map": "/jashneghar/static/js/runtime-main.c55ad6af.js.map",
+    "static/js/2.27505fc1.chunk.js": "/jashneghar/static/js/2.27505fc1.chunk.js",
+    "static/js/2.27505fc1.chunk.js.map": "/jashneghar/static/js/2.27505fc1.chunk.js.map",
+    "index.html": "/jashneghar/index.html",
+    "precache-manifest.7c41ea9c29dd2f59e77c7bbdc0cd9192.js": "/jashneghar/precache-manifest.7c41ea9c29dd2f59e77c7bbdc0cd9192.js",
+    "service-worker.js": "/jashneghar/service-worker.js",
+    "static/css/main.12babb87.chunk.css.map": "/jashneghar/static/css/main.12babb87.chunk.css.map",
+    "static/js/2.27505fc1.chunk.js.LICENSE.txt": "/jashneghar/static/js/2.27505fc1.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/jashneghar/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/jashneghar/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/jashneghar/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/jashneghar/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/jashneghar/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/jashneghar/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/jashneghar/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/image3.jpeg": "/jashneghar/static/media/image3.6880387d.jpeg",
+    "static/media/image4.jpeg": "/jashneghar/static/media/image4.ed19f364.jpeg",
+    "static/media/image5.jpeg": "/jashneghar/static/media/image5.9bda63ae.jpeg",
+    "static/media/logo.svg": "/jashneghar/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/jashneghar/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c55ad6af.js",
+    "static/js/2.27505fc1.chunk.js",
+    "static/css/main.12babb87.chunk.css",
+    "static/js/main.ac318506.chunk.js"
+  ]
+}
