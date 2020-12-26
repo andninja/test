@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/cruip/open-react-template.git"
   },
-  "homepage": "https://andninja.github.io/test",
+  "homepage": "https://andninja.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
