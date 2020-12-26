@@ -1,6 +1,5 @@
 {
   "name": "open-react-template",
-  "homepage": "https://andninja.github.io/test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,6 +16,7 @@
     "type": "git",
     "url": "https://github.com/cruip/open-react-template.git"
   },
+  "homepage": "https://andninja.github.io/test",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
